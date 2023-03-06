@@ -7,8 +7,8 @@ Were you just need to: <br>
 
 it will show score for all 3 method. <br>
 
-##Inputs
+## Inputs
 ![alt text](https://raw.githubusercontent.com/human71/comp-mt/main/Inputs.png)
 
-##Results
+## Results
 ![alt text](https://raw.githubusercontent.com/human71/comp-mt/main/Result.png)
