@@ -1,5 +1,3 @@
-![alt text](https://raw.githubusercontent.com/human71/comp-mt/main/head.png)
-
 # COMP_MT
 For Automatic(BLEU, TER, METEOR) evaluation, COMPMT is a webapp. <br><br>
 Were you just need to: <br>
