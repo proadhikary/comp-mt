@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/human71/comp-mt/main/head.png)
+
 # COMP_MT
 For Automatic(BLEU, TER, METEOR) evaluation, COMPMT is a webapp. <br><br>
 Were you just need to: <br>
@@ -7,7 +9,8 @@ Were you just need to: <br>
 
 it will show score for all 3 method. <br>
 
-##Step 01-02
-![alt text](http://url/to/img.png)
+##Inputs
+![alt text](https://raw.githubusercontent.com/human71/comp-mt/main/Inputs.png)
 
-##Step 03
+##Results
+![alt text](https://raw.githubusercontent.com/human71/comp-mt/main/Result.png)
