@@ -1,4 +1,4 @@
-# COMP_MT
+<center><h1><b>COMPMT: All-in-one Machine Translation Evaluation System</b></h1></center> 
 <h2>Section 01: Automatic Evaluation Webapp</h2>
 For Automatic(BLEU, TER, METEOR) evaluation, COMPMT has a webapp based on streamlit. <br><br>
 Were you just need to: <br>
