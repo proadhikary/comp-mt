@@ -1,5 +1,6 @@
 # COMP_MT
-For Automatic(BLEU, TER, METEOR) evaluation, COMPMT is a webapp. <br><br>
+<h2>Section 01: Automatic Evaluation Webapp</h2>
+For Automatic(BLEU, TER, METEOR) evaluation, COMPMT has a webapp based on streamlit. <br><br>
 Were you just need to: <br>
 [1] Enter you scholar id; <br>
 [2] Insert the `gold.txt` &amp; `pred.txt` files; <br>
@@ -12,3 +13,7 @@ it will show score for all 3 method. <br>
 
 ## Results
 ![alt text](https://raw.githubusercontent.com/human71/comp-mt/main/Result.png)
+
+
+<h2>Section 02: Colab Notebook for Automaic and Human Evaluation</h2>
+Run it on: [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/AvratanuBiswas/PubLit) 
