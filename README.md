@@ -16,4 +16,5 @@ it will show score for all 3 method. <br>
 
 
 <h2>Section 02: Colab Notebook for Automaic and Human Evaluation</h2>
-Run it on: [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/AvratanuBiswas/PubLit) 
+Run it on
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
