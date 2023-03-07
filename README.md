@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 30px"><b>COMPMT: All-in-one MT Evaluation System</b></p>
+<h1 align="center"><b>COMPMT: All-in-one MT Evaluation System</b></h1>
 <h2>Section 01: Automatic Evaluation Webapp</h2>
 For Automatic(BLEU, TER, METEOR) evaluation, COMPMT has a webapp based on streamlit. <br><br>
 Were you just need to: <br>
