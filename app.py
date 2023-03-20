@@ -108,5 +108,5 @@ if Submit :
     st.markdown(hide_table_row_index, unsafe_allow_html=True)
     st.table(resultdf)
 
-st.markdown("<small><p style='text-align: center;'>Developed by: Pro! </p><small>", unsafe_allow_html=True)
+st.markdown("<small><p style='text-align: center;'>Developed by: Pro </p><small>", unsafe_allow_html=True)
 
