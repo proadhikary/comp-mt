@@ -1,7 +1,7 @@
 <h1 align="center"><b>COMPMT: All-in-one MT Evaluation System</b></h1>
 <h2>Section 01: Automatic Evaluation Webapp</h2>
 For Automatic(BLEU, TER, METEOR) evaluation, COMPMT has a webapp based on streamlit. <br><br>
-Link: https://human71-comp-mt-app-if7et3.streamlit.app/
+Link: https://comp-mt.streamlit.app/
 <br>Were you just need to: <br>
 [1] Enter you scholar id; <br>
 [2] Insert the `gold.txt` &amp; `pred.txt` files; <br>
