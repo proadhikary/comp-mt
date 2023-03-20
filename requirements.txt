@@ -1,0 +1,5 @@
+pyter3
+numpy
+pandas
+stramlit
+nltk
