@@ -1,9 +1,9 @@
 #pip install pyter3 numpy pandas stramlit nltk
 import nltk
 # nltk.set_proxy('http://172.16.199.20:8080')
-nltk.download('punkt')
-nltk.download('wordnet')
-nltk.download('omw-1.4')
+# nltk.download('punkt')
+# nltk.download('wordnet')
+# nltk.download('omw-1.4')
 
 import os
 import pyter
@@ -93,6 +93,7 @@ if Submit :
     bleu = bleu(ref, gen)
     meteor = m_score
     result = [bleu, ter, meteor]
+    print(id, result)
     with open("%s/result.txt"%id, "w") as output:
         output.write(str(result))
 
