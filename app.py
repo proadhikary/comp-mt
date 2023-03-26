@@ -70,9 +70,6 @@ if Submit :
         with open(save_path, mode='wb') as w:
             w.write(File.getvalue())
 
-    # if save_path.exists():
-    #     st.success(f'Files are successfully saved!')
-
     ref = open("%s/gold.txt" %id, "r")
     ref = ref.readlines() 
     gen = open("%s/pred.txt"%id, "r")
@@ -93,7 +90,6 @@ if Submit :
     bleu = bleu(ref, gen)
     meteor = m_score
     result = [bleu, ter, meteor]
-    print(id, result)
     with open("%s/result.txt"%id, "w") as output:
         output.write(str(result))
 
